@@ -1,5 +1,6 @@
 # Hola 💬
-![logo1]([file:///D:/DESCARGAS/BI.webp](https://private-user-images.githubusercontent.com/182823076/373056211-a4765fdf-beab-40ed-aa85-2e00a4733c2f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5MDg5MzYsIm5iZiI6MTcyNzkwODYzNiwicGF0aCI6Ii8xODI4MjMwNzYvMzczMDU2MjExLWE0NzY1ZmRmLWJlYWItNDBlZC1hYTg1LTJlMDBhNDczM2MyZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwMlQyMjM3MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMzU5YWIxY2U4YmMzZmZkMGRiODkwY2Y2ZGE5OTJmYWExNjBlMThjMmQxNWI1YTE1MjYxYjE5MjNkNDcxY2Q1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lfNPNvPe105U6TqnpT-XuFQ-L7qP1LKxjOMxHRzO_08))
+![inteligencia-de-negocios](https://github.com/user-attachments/assets/a4765fdf-beab-40ed-aa85-2e00a4733c2f)
+
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
